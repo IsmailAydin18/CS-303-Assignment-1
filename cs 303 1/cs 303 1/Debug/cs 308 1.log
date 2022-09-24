@@ -1,0 +1,4 @@
+﻿  functions.cpp
+C:\Users\ismai\OneDrive\Desktop\IsmailOkul\senior year\Fall\cs 308\cs 308 1\cs 308 1\functions.cpp(64,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\ismai\OneDrive\Desktop\IsmailOkul\senior year\Fall\cs 308\cs 308 1\cs 308 1\functions.cpp(119,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  cs 308 1.vcxproj -> C:\Users\ismai\OneDrive\Desktop\IsmailOkul\senior year\Fall\cs 308\cs 308 1\Debug\cs 308 1.exe
