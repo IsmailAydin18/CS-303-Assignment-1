@@ -1,8 +1,3 @@
-// Your name: Ismail Aydin
-// Your UMKC Email Address: inahkp@umsystem.edu
-// Due date: 09/20/2022
-// CS308 Assignment 1
-
 #include <iostream>
 #include <string>
 #include <vector>
